@@ -6,3 +6,5 @@
 [22:38:38][bcsweetdreams21] Changing global settings via setup stepper and started Deployer.
 [22:38:41][bcsweetdreams21] Setting recipe.
 [22:39:39][bcsweetdreams21] Running recipe.
+[22:42:24][bcsweetdreams21] Config changes: server.dataPath
+[22:42:24][bcsweetdreams21] Completed and committed server deploy.
