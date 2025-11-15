@@ -2,5 +2,8 @@
   "version": 2,
   "general": {
     "serverName": "NewEdenRp"
+  },
+  "server": {
+    "dataPath": "C:/Users/SGT_S/OneDrive/Documents/GitHub/newedencore/txData/QBCore_1803C8.base/"
   }
 }
